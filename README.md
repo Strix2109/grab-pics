@@ -35,12 +35,12 @@ A tool to hack camera from termux.
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/grabcam`
+* `git clone https://github.com/Strix2109/grab-pics.git`
 * `cd $HOME`
 * `ls`
-* `cd grabcam`
+* `cd grab-pics`
 * `ls`
-* `bash grabcam.sh`
+* `bash grab-pics.sh`
 
 ## To see captured images
 
