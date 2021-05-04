@@ -41,15 +41,14 @@ A tool to hack camera from termux.
 * `cd grabcam`
 * `ls`
 * `bash grabcam.sh`
-```
-to see captured images >>>
-```
-```
-ls
 
+## To see captured images
+
+```
+```
+`ls`
+```
 mv (image name with .png) /sdcard
 ```
-```
-Now go and chek your gallery for victim image...
-```
-```
+
+##Now go and check your gallery for victim image...
