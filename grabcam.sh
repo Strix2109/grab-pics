@@ -19,15 +19,11 @@ echo '
                         |    _     ||   -_  
                         |  ((_))   ||     -_
                         |__________|/
-             ____ ____      _    ____        ____ ___ ____ ____
-
+  ____ ____      _    ____        ____ ___ ____ ____
  / ___|  _ \    / \  | __ )      |  _ \_ _/ ___/ ___|
-
 | |  _| |_) |  / _ \ |  _ \ _____| |_) | | |   \___ \
-
 | |_| |  _ <  / ___ \| |_) |_____|  __/| | |___ ___) |
-
- \____|_| \_\/_/   \_\____/      |_|  |___\____|____/ \___)\_/\_/\_)(_& v1.1 ' |lolcat
+ \____|_| \_\/_/   \_\____/      |_|  |___\____|____/ & By STRIX.D (v1.0) ' |lolcat
 
                                                                                
 echo " "
@@ -36,7 +32,7 @@ printf "          \e[1;77m v1.1 Admin of Strix Cyber community(Sant kr.)\e[0m \n
 
 printf "\n"
 
-echo "      N073:> PLEASE TURN ON YOUR HOTSPOT 
+echo "      Note:> PLEASE TURN ON YOUR HOTSPOT 
                    OR ELSE YOU DONT GET LINK....!"
 
 }
