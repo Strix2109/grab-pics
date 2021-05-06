@@ -27,6 +27,8 @@ A tool to hack camera from termux.
 * Data connection
 * php
 
+### Check video how to install ngrok in termux- https://youtu.be/fqS4d8IWnjg
+
 ## INSTALLATION [Termux] :
 
 * `apt-get update -y`
